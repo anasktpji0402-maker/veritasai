@@ -1,0 +1,13 @@
+{
+  "background_color": "#27abd4",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "veritasai-smart digital ai assistant",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "veritasai",
+  "start_url": "/",
+  "theme_color": "#2abfd4",
+  "id": "Veritasai",
+  "description": "​\"Veritas AI is a smart digital assistant designed to deliver accurate information, quick answers, and seamless AI interactions right from your mobile device.\""
+}
